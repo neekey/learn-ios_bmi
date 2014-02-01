@@ -461,6 +461,7 @@
 				E8E2621C189BC33900C05F68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E8E2621D189BC33900C05F68 /* Build configuration list for PBXNativeTarget "BMITests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				E8E2621F189BC33900C05F68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
